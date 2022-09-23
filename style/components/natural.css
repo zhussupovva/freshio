@@ -1,0 +1,18 @@
+.natural{
+    margin-top: 8%;
+    display: flex;
+    justify-content: space-between;
+    border-top: 3px solid #e5e5e5;
+    padding-top: 20px;
+}
+
+
+.natural-img{
+    opacity: .5;
+    transition: .4s;
+    width: 15%;
+}
+
+.natural-img:hover{
+    opacity: 1;
+}
